@@ -1,0 +1,17 @@
+HELLO!!!! A WARMING WELCOME TO EVERYONE WHO READS.
+
+POINTS TO REMEMBER BEFORE RUNNING THE CODE
+BONUS CAPABILITIES 
+
+1.FOR ADMIN AND CRITICS DIRECT SIGN-UP I HAVE FIXED SOME SECURITYCODE:
+
+*ADMIN ROLE  - ADMIN
+*CRICTIC ROLE  - CRITIC
+
+2.ADMIN CAN REMOVE ANY USER IN THE DATABASE WITH HELP OF USER_ID BECAUSE IT IS  UNQIUE FOR EVERY USER.
+
+3. FOLLOW THE FULL DESIGN FILE ATTACHED FOR DESIGN ER  /CLASS DIAGRAM/  WORK FLOW CHART OF THE PROJECT.
+
+
+                                                                                                
+                                                                                                                             THANK YOU!!!
